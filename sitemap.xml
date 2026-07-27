@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://classy-pie-d1c9a3.netlify.app/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://classy-pie-d1c9a3.netlify.app/images/hero_visual.png</image:loc>
+      <image:title>FitGearHub Home Gym Equipment</image:title>
+      <image:caption>Barbell loaded with weight plates — premium home gym equipment</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Shop / Best Sellers section -->
+  <url>
+    <loc>https://classy-pie-d1c9a3.netlify.app/#shop</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://classy-pie-d1c9a3.netlify.app/images/adjustable_dumbbell.png</image:loc>
+      <image:title>Adjustable Dumbbell Set (5–52.5 lb)</image:title>
+      <image:caption>Adjustable dumbbell with dial weight selector — home gym strength training</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://classy-pie-d1c9a3.netlify.app/images/resistance_bands.png</image:loc>
+      <image:title>Pro Resistance Band Set (5-piece)</image:title>
+      <image:caption>Five color-coded resistance bands — compact home gym workout equipment</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://classy-pie-d1c9a3.netlify.app/images/folding_treadmill.png</image:loc>
+      <image:title>Folding Treadmill SlimFit 2.0</image:title>
+      <image:caption>Compact folding treadmill — apartment gym cardio equipment</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://classy-pie-d1c9a3.netlify.app/images/yoga_mat.png</image:loc>
+      <image:title>Non-Slip Yoga Mat 6mm</image:title>
+      <image:caption>Sage green non-slip yoga mat — home workout mat</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Collections / Space Finder -->
+  <url>
+    <loc>https://classy-pie-d1c9a3.netlify.app/#collections</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Equipment Guide -->
+  <url>
+    <loc>https://classy-pie-d1c9a3.netlify.app/#equipment-guide</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Buying Guides -->
+  <url>
+    <loc>https://classy-pie-d1c9a3.netlify.app/#guides</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Reviews -->
+  <url>
+    <loc>https://classy-pie-d1c9a3.netlify.app/#reviews</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- FAQ -->
+  <url>
+    <loc>https://classy-pie-d1c9a3.netlify.app/#faq</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
